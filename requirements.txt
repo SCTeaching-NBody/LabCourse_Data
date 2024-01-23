@@ -1,0 +1,4 @@
+tabulate
+astroquery
+requests
+argparse
